@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 class Navbar extends Component {
   render() {
     return (
-      <nav classname="NavbarItems">
+      <nav className="NavbarItems">
         <h1 className="navbar-logo">Judul</h1>
 
         <ul className="nav-menu">
